@@ -1,9 +1,10 @@
 # Blog-app
 
-
 open teminal
-install nodeModules folder by using npm i
-and then node app.js to start on localhost
+
+install nodeModules folder by using 'npm i'
+
+and then 'node app.js' to start on localhost
 
 If you need to Start this open in visual studio or any code editor.
 start throw terminal.
